@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            LargestNumber largestNumber = new LargestNumber();
-            largestNumber.CompareNumber();
+            WeekDay weekDay = new WeekDay();
+            weekDay.WeekDayNumber();
         }
     }
 }
