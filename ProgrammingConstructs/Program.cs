@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            PowerTable powerTable = new PowerTable();
-            powerTable.TableOfTwo();
+            SquareOfNumber squareOfNumber = new SquareOfNumber();
+            squareOfNumber.CheckSquare();
             Console.ReadKey();
         }
     }
