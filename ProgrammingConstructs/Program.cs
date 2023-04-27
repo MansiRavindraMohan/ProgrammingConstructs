@@ -4,8 +4,9 @@
     {
         public static void Main(string[] args)
         {
-            WeekDay weekDay = new WeekDay();
-            weekDay.WeekDayNumber();
+            Arithmetic arithmetic = new Arithmetic();
+            arithmetic.Operations();
+            Console.ReadKey();
         }
     }
 }
