@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            FactorialOfNumber factorialOfNumber = new FactorialOfNumber();
-            factorialOfNumber.FactorialOfNo();
+            FlipCoin flipCoin= new FlipCoin();
+            flipCoin.FlipCoinMethod();
             Console.ReadKey();
         }
     }
