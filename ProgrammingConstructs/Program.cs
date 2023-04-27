@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            FlipCoin flipCoin= new FlipCoin();
-            flipCoin.FlipCoinMethod();
+            ReverseString reverseString = new ReverseString();
+            reverseString.ReverseStringMethod();
             Console.ReadKey();
         }
     }
