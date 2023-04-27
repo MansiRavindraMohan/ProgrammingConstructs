@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Number number= new Number();
-            number.Compare();
+            EvenOddNumber evenOddNumber = new EvenOddNumber();
+            evenOddNumber.CheckEvenOddNo();
         }
     }
 }
