@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            Arithmetic arithmetic = new Arithmetic();
-            arithmetic.Operations();
+            PowerTable powerTable = new PowerTable();
+            powerTable.TableOfTwo();
             Console.ReadKey();
         }
     }
