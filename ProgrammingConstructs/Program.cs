@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            SquareOfNumber squareOfNumber = new SquareOfNumber();
-            squareOfNumber.CheckSquare();
+            FactorialOfNumber factorialOfNumber = new FactorialOfNumber();
+            factorialOfNumber.FactorialOfNo();
             Console.ReadKey();
         }
     }
