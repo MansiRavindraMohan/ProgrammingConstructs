@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            VotersAge votersAge= new VotersAge();
-            votersAge.CheckEligibility();
+            LargestNumber largestNumber = new LargestNumber();
+            largestNumber.CompareNumber();
         }
     }
 }
