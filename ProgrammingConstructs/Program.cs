@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            ReverseString reverseString = new ReverseString();
-            reverseString.ReverseStringMethod();
+            SumOfNaturalNo sumOfNaturalNo = new SumOfNaturalNo();
+            sumOfNaturalNo.MethodOfSum();
             Console.ReadKey();
         }
     }
